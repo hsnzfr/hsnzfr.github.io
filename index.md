@@ -11,10 +11,6 @@ header {
   display: none;
 }
 
-table {
-    border-collapse: collapse;
-} 
-
 
 table, th, td {
   border: 0px white;
