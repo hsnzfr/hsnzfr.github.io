@@ -2,8 +2,8 @@
   <head>
   <style>
 body {background-color: white;}
-h1   {color: darkblue;}
-p    {color: black;}
+h1   {color: darkblue; border-width:0}
+p    {color: black; border-width:0}
    
     
     @import "{{ site.theme }}";
