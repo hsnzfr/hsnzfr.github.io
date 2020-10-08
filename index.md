@@ -24,10 +24,10 @@ table {
  <body>
   <table cellspacing="0" cellpadding="0" width="100%" border="0">
     <tr>
-      <td>  
-      <img width='30%' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
+      <td width="30%">  
+      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
       </td>
-      <td>
+      <td width="70%"> 
         <h1> Hasan Zafari, PhD </h1>
     <p>
  Postdoctoral Researcher
