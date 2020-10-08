@@ -1,6 +1,17 @@
 <html>
   <head>
-  
+  <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: silver;}
+    
+    @import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+</style>
+</head>
   </head>
  <body>
   <table width='100%'>
