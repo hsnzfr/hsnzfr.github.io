@@ -15,8 +15,9 @@ table {
     border-collapse: collapse;
 } 
 
-#table1 table, tr, td, th {
-     border: 0;
+
+table, th, td {
+  border: 0px white;
 }
 
 </style>
