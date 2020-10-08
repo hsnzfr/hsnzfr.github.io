@@ -17,28 +17,20 @@ header {
   </head>
  <body border="0">
   
-  <!--
-  <table border="0" width="100%">
-    <tr>
-      <td width="40%">  
-      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
-      </td>
-      <td width="60%"> 
-        <h1> Hasan Zafari </h1>
-    <p border-width="0">
- Postdoctoral Researcher
-    <br>
-School of Computing, Queen's University, Canada
-    <br>
-Email: hasan(dot)zafari(at) queensu(dot)ca
-    </p>
-       </td> 
-     </tr> 
-    
-   </table> 
-   
-   -->
-   
+  <!---------------------------------------------------------->
+  <div class="float-container">
+
+  <div class="float-child">
+    <div class="green">Float Column 1</div>
+  </div>
+  
+  <div class="float-child">
+    <div class="blue">Float Column 2</div>
+  </div>
+  
+</div>
+  
+  <!--------------------------------------------------------->   
    <div class="float-container">
 
   <div class="float-child green">
