@@ -11,7 +11,19 @@ p    {color: black; border-width:0}
 header {
   display: none;
 }
+///////////////////////
 
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
 
 </style>
   </head>
