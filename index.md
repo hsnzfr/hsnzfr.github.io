@@ -12,9 +12,7 @@ header {
 }
 
 
-table, th, td {
-  border: 0px white;
-}
+
 
 </style>
   </head>
