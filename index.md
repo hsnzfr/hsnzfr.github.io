@@ -4,6 +4,7 @@
 body {background-color: white;}
 h1   {color: darkblue;}
 p    {color: black;}
+   
     
     @import "{{ site.theme }}";
 
@@ -18,11 +19,11 @@ header {
   <table border="3" cellspacing="0" cellpadding="0" width="100%">
     <tr>
       <td width="40%">  
-      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
+      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
       </td>
       <td width="60%"> 
         <h1> Hasan Zafari </h1>
-    <p>
+    <p border-width="0">
  Postdoctoral Researcher
     <br>
 School of Computing, Queen's University, Canada
