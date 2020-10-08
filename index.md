@@ -15,13 +15,17 @@ table {
     border-collapse: collapse;
 } 
 
+#table1 table, tr, td, th {
+     border: 0;
+}
+
 </style>
   </head>
  <body>
   <table cellspacing="0" cellpadding="0" width="100%" border="0">
     <tr>
       <td>  
-      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
+      <img width='30%' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
       </td>
       <td>
         <h1> Hasan Zafari, PhD </h1>
