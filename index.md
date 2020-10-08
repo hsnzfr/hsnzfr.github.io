@@ -14,45 +14,22 @@ header {
 ///////////////////////
 
 .float-container {
-    border: 3px solid #fff;
-    padding: 20px;
+    border: 0px solid #fff;
+    padding: 00px;
 }
 
 .float-child {
-    width: 50%;
+    width: 70%;
     float: left;
-    padding: 20px;
-    border: 2px solid red;
+    padding: 0px;
+    border: 0px solid red;
 }
 
 </style>
   </head>
  <body border="0">
   
-  <!---------------------------------------------------------->
-  <div class="float-container">
-
-  <div class="float-child">
-    <div class="green">
-   <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
-  </div>
-  </div>
-  
-  <div class="float-child">
-    <div class="blue">
-  <h1> Hasan Zafari </h1>
-    <p border-width="0">
- Postdoctoral Researcher
-    <br>
-School of Computing, Queen's University, Canada
-    <br>
-Email: hasan(dot)zafari(at) queensu(dot)ca
-    </p>
-  </div>
-  </div>
-  
-</div>
-  
+    
   <!--------------------------------------------------------->   
    <div class="float-container">
 
