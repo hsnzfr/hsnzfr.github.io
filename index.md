@@ -33,11 +33,22 @@ header {
   <div class="float-container">
 
   <div class="float-child">
-    <div class="green">Float Column 1</div>
+    <div class="green">
+   <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
+  </div>
   </div>
   
   <div class="float-child">
-    <div class="blue">Float Column 2</div>
+    <div class="blue">
+  <h1> Hasan Zafari </h1>
+    <p border-width="0">
+ Postdoctoral Researcher
+    <br>
+School of Computing, Queen's University, Canada
+    <br>
+Email: hasan(dot)zafari(at) queensu(dot)ca
+    </p>
+  </div>
   </div>
   
 </div>
