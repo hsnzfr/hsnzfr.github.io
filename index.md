@@ -14,7 +14,8 @@ header {
 ///////////////////////
 
 .float-container {
-    border: 0px solid #fff;
+    width: 30%;
+    border: 1px solid #fff;
     padding: 00px;
 }
 
@@ -22,12 +23,12 @@ header {
     width: 70%;
     float: left;
     padding: 0px;
-    border: 0px solid red;
+    border: 1px solid red;
 }
 
 </style>
   </head>
- <body border="0">
+ <body >
   
     
   <!--------------------------------------------------------->   
