@@ -11,7 +11,6 @@ header {
   display: none;
 }
 </style>
-</head>
   </head>
  <body>
   <table width='100%'>
@@ -26,7 +25,7 @@ header {
     <br>
 School of Computing, Queen's University, Canada
     <br>
-Email:hasan(dot)zafari(at)queensu(dot)ca
+Email: hasan(dot)zafari(at)queensu(dot)ca
     </p>
        </td> 
      </tr> 
