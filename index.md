@@ -15,8 +15,8 @@ header {
 
 </style>
   </head>
- <body>
-  <table border="3" cellspacing="0" cellpadding="0" width="100%">
+ <body border="0">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
     <tr>
       <td width="40%">  
       <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
