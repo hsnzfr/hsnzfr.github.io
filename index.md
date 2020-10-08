@@ -59,7 +59,7 @@ School of Computing, Queen's University, Canada
 Email: hasan(dot)zafari(at) queensu(dot)ca
     </p>
 </span>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 </div>
 
   <!-------------------------------------------------->
