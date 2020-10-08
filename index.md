@@ -27,7 +27,7 @@ header {
     <br>
 School of Computing, Queen's University, Canada
     <br>
-Email: hasan(dot)zafari(at)queensu(dot)ca
+Email: hasan(dot)zafari(at) queensu(dot)ca
     </p>
        </td> 
      </tr> 
@@ -39,7 +39,7 @@ Email: hasan(dot)zafari(at)queensu(dot)ca
 <p>
   My current research interests include: Image and Text Medical Data Analytics, Natural Language Processing, and Machine Learning.
  </p> 
-  <h1> Publication </h1>
+  <h3> Publication </h3>
   
  <ol>
 <li>	Zafari Hasan, Langlois Sarah, Zulkernine Farhana, Kosowan Leanne, Singer Alex. (2020). <b> Predicting Chronic Obstructive Pulmonary Disease from EMR data </b>. International Conference on Computational Intelligence in Bioinformatics and Computational Biology. IEEE 2020 (accepted)
