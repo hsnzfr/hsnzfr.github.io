@@ -16,6 +16,8 @@ header {
 </style>
   </head>
  <body border="0">
+  
+  <!--
   <table border="0" width="100%">
     <tr>
       <td width="40%">  
@@ -34,6 +36,27 @@ Email: hasan(dot)zafari(at) queensu(dot)ca
      </tr> 
     
    </table> 
+   
+   -->
+   
+   <div class="float-container">
+
+  <div class="float-child green">
+     <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
+  </div>
+  
+  <div class="float-child blue">
+   <h1> Hasan Zafari </h1>
+    <p border-width="0">
+ Postdoctoral Researcher
+    <br>
+School of Computing, Queen's University, Canada
+    <br>
+Email: hasan(dot)zafari(at) queensu(dot)ca
+    </p>
+  </div>
+  
+</div>
   
   <!-------------------------------------------------->
   <hr>
