@@ -2,7 +2,7 @@
   <head>
   <style>
 body {background-color: powderblue;}
-h1   {color: blue;}
+h1   {color: while;}
 p    {color: silver;}
     
     @import "{{ site.theme }}";
