@@ -19,7 +19,7 @@ table, th, td {
 </style>
   </head>
  <body>
-  <table cellspacing="0" cellpadding="0" width="100%" border="0">
+  <table cellspacing="0" cellpadding="0" width="100%" border="0" border-color="white";>
     <tr>
       <td width="30%">  
       <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
