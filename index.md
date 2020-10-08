@@ -1,8 +1,8 @@
 <html>
   <head>
   <style>
-body {background-color: powderblue;}
-h1   {color: while;}
+body {background-color: white;}
+h1   {color: powderblue;}
 p    {color: silver;}
     
     @import "{{ site.theme }}";
