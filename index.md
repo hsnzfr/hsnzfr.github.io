@@ -10,13 +10,13 @@
       </td>
       <td>
         <h1> Hasan Zafari, PhD </h1>
-    <h3>
+    <p>
  Postdoctoral Researcher
     <br>
 School of Computing, Queen's University, Canada
     <br>
 Email:hasan(dot)zafari(at)queensu(dot)ca
-    </h3>
+    </p>
        </td> 
      </tr> 
     
@@ -24,12 +24,9 @@ Email:hasan(dot)zafari(at)queensu(dot)ca
   
   
   <hr>
-  <ul>
-    <li> Machine learning </li>
-    <li> Natural Language Processing </li>
-    <li> Database </li>
-    
- </ul>
+<p>
+  My current research interests include: Image and Text Medical Data Analytics, Natural Language Processing, and Machine Learning.
+ </p> 
   <h1> Publication </h1>
   
  <ol>
