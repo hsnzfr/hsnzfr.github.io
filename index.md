@@ -3,15 +3,26 @@
   
   </head>
  <body>
-  <h1> Hasan Zafari, PhD
-    <br>
+  <table>
+    <tr>
+      <td>  
+      <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
+      </td>
+      <td>
+        <h1> Hasan Zafari, PhD </h1>
+    <h3>
  Postdoctoral Researcher
     <br>
 School of Computing,Queen's University, Canada
     <br>
 Email:hasan(dot)zafari(at)queensu(dot)ca
-    </h1>
-  <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
+    </h3>
+       </td> 
+     </tr> 
+    
+   </table> 
+  
+  
   <hr>
   <ul>
     <li> Machine learning </li>
