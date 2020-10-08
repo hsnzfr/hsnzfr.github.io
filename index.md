@@ -21,11 +21,11 @@ table, th, td {
  <body>
   <table cellspacing="0" cellpadding="0" width="100%" border="0" bordercolor="white">
     <tr>
-      <td width="30%">  
+      <td width="40%">  
       <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
       </td>
-      <td width="70%"> 
-        <h1> Hasan Zafari, PhD </h1>
+      <td width="60%"> 
+        <h1> Hasan Zafari </h1>
     <p>
  Postdoctoral Researcher
     <br>
