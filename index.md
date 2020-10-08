@@ -3,13 +3,18 @@
   <style>
 body {background-color: white;}
 h1   {color: darkblue;}
-p    {color: silver;}
+p    {color: black;}
     
     @import "{{ site.theme }}";
 
 header {
   display: none;
 }
+
+table {
+    border-collapse: collapse;
+} 
+
 </style>
   </head>
  <body>
