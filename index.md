@@ -2,7 +2,7 @@
   <head>
   <style>
 body {background-color: white;}
-h1   {color: powderblue;}
+h1   {color: darkblue;}
 p    {color: silver;}
     
     @import "{{ site.theme }}";
@@ -13,7 +13,7 @@ header {
 </style>
   </head>
  <body>
-  <table width='100%'>
+  <table cellspacing="0" cellpadding="0" width="100%" border="0">
     <tr>
       <td>  
       <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5'>
