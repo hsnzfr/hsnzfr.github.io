@@ -16,7 +16,7 @@ header {
 </style>
   </head>
  <body border="0">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <table border="0" width="100%">
     <tr>
       <td width="40%">  
       <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
@@ -35,11 +35,13 @@ Email: hasan(dot)zafari(at) queensu(dot)ca
     
    </table> 
   
-  
+  <!-------------------------------------------------->
   <hr>
 <p>
-  My current research interests include: Image and Text Medical Data Analytics, Natural Language Processing, and Machine Learning.
+  My current research interests include: Medical Image and Text Data Analytics, Natural Language Processing, and Machine Learning.
  </p> 
+  <!-------------------------------------------------->
+  <hr>
   <h3> Publication </h3>
   
  <ol>
@@ -68,9 +70,6 @@ Email: hasan(dot)zafari(at) queensu(dot)ca
 <li>	Hassani Keramat, Roustaei Rassul, Zafari Hasan, Zohrevandi Ebad, Shiri M. Ebrahim. <b> An Approach to Tracking Data Lineage in Mediator Based Information Integration Systems </b>. 2009 International Conference on Information Management and Engineering. IEEE, 2009
 </li>
 </ol>
-
-
-
 
 
   
