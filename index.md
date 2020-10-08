@@ -13,33 +13,44 @@ header {
 }
 ///////////////////////
 
-.float-container {
-    width: 30%;
-    border: 1px solid #fff;
-    padding: 00px;
+
+.left{
+    width:140px;
+    float:left;
+    height:100%;
 }
 
-.float-child {
-    width: 70%;
+.right{
+    margin-left:140px;
+}
+
+
+
+.divLeft {
+    width:350px;
+    //display:block;
     float: left;
-    padding: 0px;
-    border: 1px solid red;
+}
+.divRight {
+	left-margin:300px;
+	height:400px;
 }
 
 </style>
   </head>
  <body >
-  
-    
-  <!--------------------------------------------------------->   
-   <div class="float-container">
 
-  <div class="float-child green">
-     <img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
-  </div>
-  
-  <div class="float-child blue">
-   <h1> Hasan Zafari </h1>
+    
+<!------------------>
+
+<div width="100%">
+<span class="divLeft">
+<img width='300' src='https://repository-images.githubusercontent.com/302229647/10690c00-08fd-11eb-9756-b5b1d250aeb5' border-width="0">
+</span>
+
+<br><br><br><br><br>
+<span class="divRight">
+	<h1> Hasan Zafari </h1>
     <p border-width="0">
  Postdoctoral Researcher
     <br>
@@ -47,10 +58,10 @@ School of Computing, Queen's University, Canada
     <br>
 Email: hasan(dot)zafari(at) queensu(dot)ca
     </p>
-  </div>
-  
+</span>
+<br><br><br><br><br><br><br><br><br><br>
 </div>
-  
+
   <!-------------------------------------------------->
   <hr>
 <p>
@@ -88,7 +99,7 @@ Email: hasan(dot)zafari(at) queensu(dot)ca
 </ol>
 
 
-  
+ 
   
   </body>
   </html>
